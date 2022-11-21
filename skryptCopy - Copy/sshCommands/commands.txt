@@ -1,0 +1,1 @@
+show interfaces status all | include 0/;show vlan port all | include 0/
